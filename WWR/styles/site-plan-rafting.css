@@ -25,8 +25,8 @@ Fonts are separated by a & */
   --paragraph-background-color: #0F2F1C;
   --nav-link-color: #2e1813;
   --nav-background-color: white;
-  --nav-hover-link-color: #0F2F1C;
-  --nav-hover-background-color: #be5943;
+  --nav-hover-link-color: white;
+  --nav-hover-background-color: #9E7B5F;
   /* TODO: Week02 - test out your colors using by viewing your html and interacting with it. Make sure the contrast is enough that things can be easily read*/
 }
 
